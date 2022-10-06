@@ -1,0 +1,13 @@
+header{
+    min-height: 70vh;
+    background-image: url(https://picsum.photos/1200/500?grayscale);
+    background-size: cover;
+    background-position: center;
+    
+}.bg-gray{
+    background-color: gray;
+}.bg-white{
+    background-color: white;
+}.justify{
+    text-align: justify;
+}
